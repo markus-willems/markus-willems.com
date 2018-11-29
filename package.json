@@ -1,0 +1,8 @@
+{
+    "name": "markus-willems.com",
+    "version": "0.0.1",
+    "description": "Personal website and blog.",
+    "scripts": {
+        "create": "cp -R src/ public/"
+    }
+}
